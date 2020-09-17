@@ -23,7 +23,7 @@ function car_collide(){
       car.shapeColor = color("springgreen");
     }
     if (deformation > 100 && deformation < 180){
-      car.shapeColor = color("tomato");
+      car.shapeColor = color("gold");
     }
     if (deformation > 180 ){
       car.shapeColor = color("crimson");
